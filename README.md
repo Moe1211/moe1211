@@ -22,7 +22,7 @@ I love listening to music while working.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about Dart, Flutter, Firebase, PostgreSQL, Node.js and API development.
-- 📫 I am just one mail away - [ibrahim.moe121 at gmail dot com]
+- 📫 I am just one mail away - [ibrahim.moe121@gmail.com]
 - 😄 Pronouns: He, Ninja & Moe 😄
 - :partying_face: Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.
 - :book: My books - I have written four books, "Object Oriented Programming with PHP", "WordPress Complete", "Facebook App Development" and "Smarty"
