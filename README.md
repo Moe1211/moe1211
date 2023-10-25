@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-![Dart](https://img.shields.io/badge/Dart%20-0CC1F3?style=flat-square&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart%20-F7DF1E?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%23DD0031.svg?&style=flat-square&logo=flutter&logoColor=white)
-![FireBase](https://img.shields.io/badge/Firebase%20-0CC1F3?style=flat-square&logo=firebase&logoColor=white)
+![FireBase](https://img.shields.io/badge/Firebase%20-43853D?style=flat-square&logo=firebase&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
