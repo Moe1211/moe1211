@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
+![Debian](https://img.shields.io/badge/debian-%23DD0031.svg?&style=flat-square&logo=debian&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart%20-F7DF1E?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%23DD0031.svg?&style=flat-square&logo=flutter&logoColor=white)
 ![FireBase](https://img.shields.io/badge/Firebase%20-43853D?style=flat-square&logo=firebase&logoColor=white)
@@ -9,11 +10,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![GO](https://img.shields.io/badge/Go-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Debian](https://img.shields.io/badge/debian-%23DD0031.svg?&style=flat-square&logo=debian&logoColor=red)
 
 
 I am a Full Stack Developer with a huge love for Dart, Flutter, Node.js, Everything API, Postgres,and System Architecture. 
