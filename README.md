@@ -28,7 +28,7 @@ I love listening to music while working.
 - 💬 Ask me about Dart, Flutter, Firebase, PostgreSQL, Node.js, Debian, Go and API development.
 - 📫 I am just one mail away - ibrahim.moe121@gmail.com
 - 😄 Pronouns: He, Ninja & Moe 😄
-- :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac.
+- :wrench: Tools - VSCode, Insomnia, Valentina Studio, Markdown Editors, Local by Flywheel, Postman and the Mighty Terminal with Oh MyZSH on Mac & Arch-Linux.
 
 
 ### Where to find me
