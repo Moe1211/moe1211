@@ -18,7 +18,7 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
-I am a Full Stack Developer with a huge love for Dart, Flutter, Node.js, Everything API, Postgres,and System Architecture. 
+I am a Full Stack Developer with a huge love for Dart, Flutter, Node.js, Go-Lang, Postgres,and Linux. 
 Currently, **I'm open to work and employment opportunities**.
 
 I love listening to music while working.
