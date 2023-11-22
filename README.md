@@ -8,6 +8,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-0CC1F3?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Arch-Linux](https://img.shields.io/badge/Arch-Linux-000000?style=flat-square&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-F7DF1E?style=flat-square&logo=go&logoColor=black)
@@ -24,7 +25,7 @@ I love listening to music while working.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Dart, Flutter, Firebase, PostgreSQL, Node.js and API development.
+- 💬 Ask me about Dart, Flutter, Firebase, PostgreSQL, Node.js, Debian, Go and API development.
 - 📫 I am just one mail away - ibrahim.moe121@gmail.com
 - 😄 Pronouns: He, Ninja & Moe 😄
 - :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac.
