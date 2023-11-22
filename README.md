@@ -13,6 +13,8 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-%23DD0031.svg?&style=flat-square&logo=debian&logoColor=red)
+
 
 I am a Full Stack Developer with a huge love for Dart, Flutter, Node.js, Everything API, Postgres,and System Architecture. 
 Currently, **I'm open to work and employment opportunities**.
