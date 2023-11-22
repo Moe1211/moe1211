@@ -3,7 +3,7 @@
 
 ![Debian](https://img.shields.io/badge/Debian-%d703fc.svg?&style=flat-square&logo=debian&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart%20-F7DF1E?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter%20-000000.svg?&style=flat-square&logo=flutter&logoColor=blue)
+![Flutter](https://img.shields.io/badge/Flutter%20-0CC1F3.svg?&style=flat-square&logo=flutter&logoColor=blue)
 ![FireBase](https://img.shields.io/badge/Firebase%20-43853D?style=flat-square&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-0CC1F3?style=flat-square&logo=postgresql&logoColor=white)
