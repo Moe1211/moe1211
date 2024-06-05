@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-0CC1F3?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-F7DF1E?style=flat-square&logo=dotnet&logoColor=blue)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-23DD0031?style=flat-square&logo=dotnet&logoColor=blue)
 ![Arch-Linux](https://img.shields.io/badge/Arch-Linux-000000?style=flat-square&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
