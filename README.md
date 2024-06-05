@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![C#](https://img.shields.io/badge/CSharp%20-F7DF1E?style=flat-square&logo=csharp&logoColor=black)
+![C#](https://img.shields.io/badge/C#%20-F7DF1E?style=flat-square&logo=csharp&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-%d703fc.svg?&style=flat-square&logo=debian&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart%20-F7DF1E?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter%20-0CC1F3.svg?&style=flat-square&logo=flutter&logoColor=blue)
@@ -8,6 +8,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-0CC1F3?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-F7DF1E?style=flat-square&logo=dotnet&logoColor=blue)
 ![Arch-Linux](https://img.shields.io/badge/Arch-Linux-000000?style=flat-square&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
