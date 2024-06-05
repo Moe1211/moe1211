@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![C#](https://img.shields.io/badge/Dart%20-F7DF1E?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/Dart%20-F7DF1E?style=flat-square&logo=csharp&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-%d703fc.svg?&style=flat-square&logo=debian&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart%20-F7DF1E?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter%20-0CC1F3.svg?&style=flat-square&logo=flutter&logoColor=blue)
