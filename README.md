@@ -65,8 +65,3 @@ I love listening to music while working 🎧.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ibrahim-a71108243/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/N1nja101)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mohamad.ahmad.75033149/)  
-
----
-
-🔥 **This README is now fully aligned with your updated CV!** 🚀  
-Would you like me to assist in **automating updates** to your README whenever you update your CV? 🤖
