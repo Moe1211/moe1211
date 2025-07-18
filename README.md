@@ -22,17 +22,20 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### ⚙️ CI/CD & Deployment
+### ⚙️ CI/CD & Automation
 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![AppVeyor](https://img.shields.io/badge/AppVeyor-00B3E0?style=flat-square&logo=appveyor&logoColor=white)
 ![Octopus Deploy](https://img.shields.io/badge/Octopus_Deploy-2F93E0?style=flat-square&logo=octopus-deploy&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-4E4E4E?style=flat-square&logo=n8n&logoColor=white)
 
 ### 📂 Databases & Storage
 
@@ -46,22 +49,27 @@
 
 ### 🏆 About Me
 
-I am a **Full Stack Developer** with a huge love for **Dart, Flutter, Node.js, Go, PostgreSQL, and Linux**.  
-Currently, **I'm open to work and employment opportunities**.  
+I’m a **Full Stack Developer** building across Web, Mobile, DevOps, and Web3 ecosystems.  
+My projects span **React/Next.js**, **C#/.NET**, **Solidity**, **Flutter**, **PostgreSQL**, and modern CI/CD pipelines.
 
-I love listening to music while working 🎧.  
+Currently **open to new opportunities** (remote or relocation).  
 
-- 🌱 **I’m constantly learning** new technologies and improving my skills.  
-- 👯 **I'm open for new opportunities** (remote or relocation).  
-- 💬 **Ask me about:** Web3, Solidity, Blockchain, API development, Next.js, React, Node.js, PostgreSQL, MongoDB, DevOps, and Cloud Solutions.  
-- 📫 **Let's connect!** Email me at **ibrahim.moe121@gmail.com**.  
-- 😄 **Pronouns:** He, Ninja & Moe 🥷.  
-- 🔧 **Tools I Use:** VSCode, Postman, Insomnia, Valentina Studio, Markdown Editors, Local by Flywheel, Terminal (Oh My ZSH), Remix IDE, and ClickUp.
+- 🧠 Constantly learning and building across stacks  
+- 🔁 End-to-end delivery from code to cloud  
+- 🧪 Strong in debugging, observability, and automation  
+- 💬 Ask me about: Web3, Smart Contracts (UUPS/Hardhat), API design, DevOps, DX, CI/CD, and cloud-native architectures  
+- 📫 Reach me at **ibrahim.moe121@gmail.com**
 
 ---
 
-### 🌍 Where to find me
+### 🛠️ Tools I Use
+
+VS Code · Postman · Insomnia · Valentina Studio · Markdown Editors · Remix IDE · Flywheel · ClickUp · Oh-My-ZSH
+
+---
+
+### 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ibrahim-a71108243/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/N1nja101)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mohamad.ahmad.75033149/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mohamad.ahmad.75033149/)
