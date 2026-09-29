@@ -79,13 +79,3 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### What I'm Building
-
-- **[local-is-agentic](https://github.com/Moe1211/local-is-agentic)** — experiments in local-first agent tooling
-- **[fleet-manager-monolith](https://github.com/Moe1211/fleet-manager-monolith)** — Python fleet-management service
-- **[react-three-fiber-experiments](https://github.com/Moe1211/react-three-fiber-experiments)** — Three.js / WebGL sandbox
-- **[json-sanitizer](https://github.com/Moe1211/json-sanitizer)** — Python JSON cleanup utility
-- **[dotfiles](https://github.com/Moe1211/dotfiles)** — my shell / macOS setup
